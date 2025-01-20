@@ -1,4 +1,4 @@
-# Chall - Your Challenge Title
+# Chall - Are You Playing Fair
 
 > A brief description of the challenge
 
