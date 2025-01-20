@@ -1,10 +1,3 @@
 # How to Solve the Challenge?
 
-Provide reproducible steps to solve the challenge. This can include:
-
-- Runnable code (e.g., `PoC.py`)
-- A Bash script or a sequence of commented commands
-- Well-explained instructions
-- ...
-
-Ensure that all dependencies required to build or run the solution are provided (e.g., `requirements.txt`) or thoroughly documented.
+Choose any online decoding sites for the Playfair cipher. As per the site, you can either use the cipher text and the table, or the cipher text and the phrase "CAN I TRUST YOU WITH THIS", given in the description.
