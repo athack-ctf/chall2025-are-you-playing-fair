@@ -1,4 +1,4 @@
 # Building Your Challenge
 
-This challenge is built using an Playfair encoding/decoding site https://planetcalc.com/7751/ 
+This challenge is built using an Playfair encryption/decryption site https://planetcalc.com/7751/ 
 
