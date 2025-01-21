@@ -1,6 +1,6 @@
 # Chall - Are You Playing Fair
 
-> A brief description of the challenge
+> A straightforward challenge about a lesser-known cipher.
 
 ## Type
 
