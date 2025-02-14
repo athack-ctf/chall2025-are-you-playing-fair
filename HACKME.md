@@ -22,3 +22,5 @@ Jester: Alright, give me a moment.
 
 
 
+
+NOTE: The format of the flag is ATHACKCTF{[A-Z]}
