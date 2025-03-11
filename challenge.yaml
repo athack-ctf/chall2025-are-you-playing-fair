@@ -26,7 +26,7 @@ description: |
 
     NOTE: The format of the flag is ATHACKCTF{[A-Z]}
 
-value: 0
+value: 50
 
 type: standard
 
