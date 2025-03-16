@@ -1,22 +1,61 @@
-# Chall - Are You Playing Fair
+# @HACK 2025: Are You Playing Fair
 
-> A straightforward challenge about a lesser-known cipher.
+> Authored by [Aathira](https://github.com/aathirad).
 
-## Type
+- **Category**: `Crypto`
+- **Value**: `50 points`
+- **Tags**: `beginner`
 
-- [X] **OFF**line
-- [ ] **ON**line
+> XX March XXXX, Monday
+> 
+> Roger: I need your help breaking this mysterious data. <br>
+> Jester: Send it to me, I will help you. <br>
+> Roger: CAN I TRUST YOU WITH THIS? <br>
+> Jester: I will do my best! <br>
+> Roger: Give me the correct answer else I'll have to shut you down. <br>
+> Jester: Do not worry, Roger. You can trust me on this. <br>
+> Roger: <br>
+> 
+> Alright, here is the mystery data:- NCGUNFACGFOYOMYCRSRNCXBWSWURMBSKOIBWDZZWOCGUNFWO <br>
+> I found this along with it:-
+> 
+> C	A	N	I	T <br>
+> R	U	S	Y	O <br>
+> W	H	B	D	E <br>
+> F	G	K	L	M <br>
+> P	Q	V	X	Z 
+> <br>
+> 
+> Jester: Alright, give me a moment.
+> 
+> NOTE: The format of the flag is ATHACKCTF{[A-Z]}
+> 
 
-## Designer
+## Reveal Flag
 
-- Aathira Dineshan
+Did you try solving this challenge?
+<details>
+<summary>
+Yes
+</summary>
 
-## Description
+Did you **REALLY** try solving this challenge?
 
-A straightforward challenge aimed at sparking participants' interest and encouraging them to research and learn about a lesser-known cipher.
+<details>
+<summary>
+Yes, I promise!
+</summary>
 
-**IMPORTANT:** This description will **NOT** be shared with participants.
+Flag: `ATHACKCTF{MYSTERIOUSCIPHERBROKENBYTHEEXPERTHACKER}`
 
-## Category
+</details>
+</details>
 
-- `crypto`
+
+---
+
+## About @HACK
+[@HACK](https://athackctf.com/) is an annual CTF (Capture The Flag) competition hosted by [HEXPLOIT ALLIANCE](https://hexploit-alliance.com/) and [TECHNATION](https://technationcanada.ca/) at Concordia University in Montreal, Canada.
+
+---
+[Check more challenges from @HACK 2025](https://github.com/athack-ctf/AtHackCTF-2025-Challenges).
